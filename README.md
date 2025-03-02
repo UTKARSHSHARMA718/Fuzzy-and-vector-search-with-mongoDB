@@ -225,3 +225,14 @@ static async searchBooks(req: Request, res: Response) {
   }
 }
 ```
+## Search indexes
+![Screenshot 2025-03-02 121607](https://github.com/user-attachments/assets/8f3540ae-0e5c-4f38-8c74-bc06e2d5f06c)
+
+## Rules define for fuzzy search
+
+![fuzzy search](https://github.com/user-attachments/assets/83ba9979-2941-4dc5-9a61-5bff44383000)
+
+
+## Rules define for vector search
+
+![Vector Search](https://github.com/user-attachments/assets/971acd15-91c2-40af-b3aa-f1d2b14ee8a6)
